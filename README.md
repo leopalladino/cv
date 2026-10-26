@@ -1,6 +1,6 @@
 # Leonardo Victor Palladino
 
-Data Scientist | AI Engineer
+Data Scientist | Credit Risk & LLM Evaluation
 
 [Download CV (PDF)](https://github.com/leopalladino/cv/raw/main/CV_Leonardo_Victor_Palladino.pdf)
 
